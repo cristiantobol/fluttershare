@@ -29,15 +29,20 @@ dependencies:
   image: ^2.0.7
   animator: 0.1.4
   cupertino_icons: ^0.1.2
-  path_provider: ^0.5.0+1
+  path_provider: ^1.6.8
   firebase_messaging: ^4.0.0+1
   timeago: 2.0.17
   cached_network_image:
   flutter_svg:
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
+  camera: ^0.5.8+1
+  path: ^1.7.0
+  esys_flutter_share: ^1.0.2
+  line_icons: ^0.2.0
+  line_awesome_icons: ^1.0.4+2
+  carousel_slider: ^2.1.0
+  splashscreen: ^1.2.0
+  bubble: ^1.1.9+1
+  flutter_platform_widgets: ^0.32.4
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -46,12 +51,47 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   fonts:
-    - family: Signatra
+    - family: Ubuntu
       fonts:
-        - asset: assets/fonts/Signatra.ttf
+        - asset: assets/fonts/Ubuntu.ttf
+        - asset: assets/fonts/UbuntuLight.ttf
+          weight: 300
+        - asset: assets/fonts/UbuntuRegular.ttf
+          weight: 400
+        - asset: assets/fonts/UbuntuMedium.ttf
+          weight: 500
+        - asset: assets/fonts/UbuntuBold.ttf
+          weight: 700
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+          weight: 800
+    - family: Gilroy
+      fonts:
+        - asset: assets/fonts/Gilroy-Light.otf
+        - asset: assets/fonts/Gilroy-ExtraBold.otf
+
+
   assets:
-    - assets/images/google_signin_button.png
+    - assets/images/google_signin_button.svg
+    - assets/images/facebook_signin_button.svg
     - assets/images/upload.svg
     - assets/images/search.svg
     - assets/images/activity_feed.svg
     - assets/images/no_content.svg
+    - assets/images/create_account.svg
+    - assets/images/selfie.jpg
+    - assets/images/splash.jpg
+    - assets/images/steven.jpg
+    - assets/images/sophia.jpg
+    - assets/images/sam.jpg
+    - assets/images/olivia.jpg
+    - assets/images/john.jpg
+    - assets/images/james.jpg
+    - assets/images/greg.jpg

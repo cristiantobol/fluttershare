@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "456308303993",
+    "firebase_url": "https://fluttershare-25f83.firebaseio.com",
+    "project_id": "fluttershare-25f83",
+    "storage_bucket": "fluttershare-25f83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456308303993:android:13781f16978c126b128ca8",
+        "android_client_info": {
+          "package_name": "com.ctobol.flatmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456308303993-s2he32tob14e6ja2dk27kg6bkvm83skt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHiXAkCM7m3CFwwAvdrxRGF2hQqHsHieE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456308303993-s2he32tob14e6ja2dk27kg6bkvm83skt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456308303993-csgp0dspghf0n86kehgeh797op1m46vn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ctobol.flatmate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456308303993:android:88b6ca34bbd4428e128ca8",
+        "android_client_info": {
+          "package_name": "com.ctobol.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456308303993-pggl5rno09in5io8mqtgkbhjgldq496k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ctobol.fluttershare",
+            "certificate_hash": "0bb518005fe3469591f665df505468828a7a2539"
+          }
+        },
+        {
+          "client_id": "456308303993-s2he32tob14e6ja2dk27kg6bkvm83skt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHiXAkCM7m3CFwwAvdrxRGF2hQqHsHieE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456308303993-s2he32tob14e6ja2dk27kg6bkvm83skt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456308303993-csgp0dspghf0n86kehgeh797op1m46vn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ctobol.flatmate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
